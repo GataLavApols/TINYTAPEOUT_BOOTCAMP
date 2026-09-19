@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Idk bruh, tinytapeout_bootcamp_Design
 
 ## How to test
 
